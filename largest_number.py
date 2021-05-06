@@ -8,5 +8,5 @@ largest = 0
 for num in simple_list:
     if num > largest:
         largest = num
-print("The current largest is " + str(largest))
+print("The largest number is " + str(largest))
 
